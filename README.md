@@ -1,1 +1,1 @@
-"# izpitvane" 
+"Imame izpitvane" 
